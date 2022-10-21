@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>body {&#13;
+  font-family: 'SF Pro Text Regular';&#13;
+}&#13;
+@font-face {&#13;
+    font-family: 'SF Pro Text Regular';&#13;
+    src: url('/sys_attachment.do?sys_id=91db6db397395110f769b4b3f153af91');&#13;
+    src:url('/sys_attachment.do?sys_id=46db6db397395110f769b4b3f153af94') format('woff2'),&#13;
+        url('/sys_attachment.do?sys_id=06db6db397395110f769b4b3f153af93') format('woff'),&#13;
+        url('/sys_attachment.do?sys_id=e1db6db397395110f769b4b3f153af92') format('truetype');&#13;
+    font-weight: normal;&#13;
+    font-style: normal;&#13;
+    font-display: swap;&#13;
+}&#13;
+@font-face {&#13;
+    font-family: 'SF Pro Text Medium';&#13;
+src: url('/sys_attachment.do?sys_id=48dba9b397395110f769b4b3f153af4b');&#13;
+    src:url('/sys_attachment.do?sys_id=5bdb6db397395110f769b4b3f153af98') format('woff2'),&#13;
+        url('/sys_attachment.do?sys_id=0bdb6db397395110f769b4b3f153af97') format('woff'),&#13;
+        url('/sys_attachment.do?sys_id=f6db6db397395110f769b4b3f153af96') format('truetype');&#13;
+    font-weight: normal;&#13;
+    font-style: normal;&#13;
+    font-display: swap;&#13;
+}&#13;
+@font-face {&#13;
+    font-family: 'SF Pro Text Semibold';&#13;
+src: url('/sys_attachment.do?sys_id=96db6db397395110f769b4b3f153af95');&#13;
+    src:url('/sys_attachment.do?sys_id=5bdb6db397395110f769b4b3f153af98') format('woff2'),&#13;
+        url('/sys_attachment.do?sys_id=0bdb6db397395110f769b4b3f153af97') format('woff'),&#13;
+        url('/sys_attachment.do?sys_id=f6db6db397395110f769b4b3f153af96') format('truetype');&#13;
+    font-weight: normal;&#13;
+    font-style: normal;&#13;
+    font-display: swap;&#13;
+}&#13;
+@font-face {&#13;
+    font-family: 'SF Pro Text Bold';&#13;
+src: url('/sys_attachment.do?sys_id=0bcba9b397395110f769b4b3f153af46');&#13;
+    src:url('/sys_attachment.do?sys_id=08dba9b397395110f769b4b3f153af4a') format('woff2'),&#13;
+        url('/sys_attachment.do?sys_id=f7cba9b397395110f769b4b3f153af49') format('woff'),&#13;
+        url('/sys_attachment.do?sys_id=97cba9b397395110f769b4b3f153af48') format('truetype');&#13;
+    font-weight: normal;&#13;
+    font-style: normal;&#13;
+    font-display: swap;&#13;
+}</css>
+        <name>Croft CSS StyleSheets</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>Chandru</sys_created_by>
+        <sys_created_on>2022-09-14 15:06:40</sys_created_on>
+        <sys_id>e83aa9ff97f55110f769b4b3f153af09</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Croft CSS StyleSheets</sys_name>
+        <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
+        <sys_update_name>sp_css_e83aa9ff97f55110f769b4b3f153af09</sys_update_name>
+        <sys_updated_by>Sudharsan</sys_updated_by>
+        <sys_updated_on>2022-09-15 15:05:07</sys_updated_on>
+    </sp_css>
+</record_update>
