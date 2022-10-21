@@ -74,7 +74,10 @@ $size-3:3px;&#13;
 $size-5:5px;&#13;
 $size-50: 50px;&#13;
 $size-60: 60px;&#13;
+$size-65:65px;&#13;
+$size-70: 70px;&#13;
 $size-90: 90px;&#13;
+$size-100: 100px;&#13;
 $size-108: 108px;&#13;
 $size-110: 110px;&#13;
 $size-135: 135px;&#13;
@@ -82,13 +85,14 @@ $size-160: 160px;&#13;
 $size-200: 200px;&#13;
 $size-296: 296px;&#13;
 $size-370: 370px;&#13;
+$size-412: 412px;&#13;
 // percentange&#13;
 $percent0: 0%;&#13;
 $percent2: 2%;&#13;
+$percent3: 3%;&#13;
 $percent5: 5%;&#13;
 $percent10: 10%;&#13;
 $percent15: 15%;&#13;
-$percent16.5: 16.5%;&#13;
 $percent20: 20%;&#13;
 $percent25: 25%;&#13;
 $percent30: 30%;&#13;
@@ -117,8 +121,18 @@ $sp-space--80: 80px;&#13;
 $sp-space--120: 120px;&#13;
 $sp-space--130: 130px;&#13;
 $sp-space--170px:170px;&#13;
+$sp-space--175px:175px;&#13;
 $sp-space--180px:180px;&#13;
+$sp-space--193px:193px;&#13;
+$sp-space--200px:200px;&#13;
+$sp-space--220px:220px;&#13;
+$sp-space--228px:228px;&#13;
+$sp-space--240px:240px;&#13;
+$sp-space--250px:250px;&#13;
+$sp-space--312px : 312px;&#13;
 $sp-space--345: 345px;&#13;
+$sp-space--360: 360px;&#13;
+$sp-space--350px:350px;&#13;
 $sp-space--360: 360px;&#13;
 $space-vh-65: 65vh;&#13;
 //position values&#13;
@@ -171,13 +185,10 @@ form.ng-pristine&#13;
 {&#13;
 margin-top:$size-3 !important;&#13;
 }&#13;
-$size-70: 70px;&#13;
-$size-90:90px;&#13;
-$size-100: 100px;&#13;
-$size-110:110px;&#13;
-$size-160:160px;&#13;
-$size-108:108px;&#13;
-$size-135:135px;&#13;
+&#13;
+&#13;
+&#13;
+&#13;
 &#13;
 &#13;
 &#13;
@@ -196,13 +207,13 @@ $size-135:135px;&#13;
         <sys_created_by>Chandru</sys_created_by>
         <sys_created_on>2022-09-14 15:03:31</sys_created_on>
         <sys_id>e5b9e9fb97f55110f769b4b3f153af7b</sys_id>
-        <sys_mod_count>63</sys_mod_count>
+        <sys_mod_count>70</sys_mod_count>
         <sys_name>Croft EC Theme</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_theme_e5b9e9fb97f55110f769b4b3f153af7b</sys_update_name>
-        <sys_updated_by>Prabeen.Raj Selvaraj</sys_updated_by>
-        <sys_updated_on>2022-10-07 11:15:18</sys_updated_on>
+        <sys_updated_by>Sakthi.Varun</sys_updated_by>
+        <sys_updated_on>2022-10-10 15:11:51</sys_updated_on>
     </sp_theme>
 </record_update>
