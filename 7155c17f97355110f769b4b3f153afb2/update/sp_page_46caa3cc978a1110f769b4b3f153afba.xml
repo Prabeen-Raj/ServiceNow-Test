@@ -4,7 +4,7 @@
         <css>/* Cant get around with out important as mesp has container style with important */
 
 .container {
-  padding: 0 !important;
+  padding: $size-0 !important;
 }
 
 .lf-margin  &gt; span &gt; div &gt; *{
@@ -16,11 +16,11 @@
 }
 
 .flex-basis-zero {
-  flex-basis: 0;
+  flex-basis: $size-0;
 }
 
 .flex-basis-auto {
-  flex-basis: 0;
+  flex-basis: $size-0;
 }
 
 .topic-breadcrumbs-container .breadcrumbs{
@@ -230,14 +230,14 @@
         <sys_created_by>Sudharsan</sys_created_by>
         <sys_created_on>2022-09-15 19:06:44</sys_created_on>
         <sys_id>46caa3cc978a1110f769b4b3f153afba</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>croft_ec_topic_page</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_page_46caa3cc978a1110f769b4b3f153afba</sys_update_name>
-        <sys_updated_by>Sudharsan</sys_updated_by>
-        <sys_updated_on>2022-09-15 20:16:25</sys_updated_on>
+        <sys_updated_by>Sandeep.Vasudevan</sys_updated_by>
+        <sys_updated_on>2022-09-28 08:59:32</sys_updated_on>
         <title>Croft_EC_Topic_Page</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>
