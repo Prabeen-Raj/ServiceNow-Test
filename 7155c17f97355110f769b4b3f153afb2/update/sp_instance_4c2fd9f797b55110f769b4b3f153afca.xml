@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">99e29dbb97755110f769b4b3f153af75</sp_column>
+        <sp_widget display_value="Latest Articles(Croft EC)">41db5d3797b55110f769b4b3f153afee</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>sandeep</sys_created_by>
+        <sys_created_on>2022-09-14 14:16:56</sys_created_on>
+        <sys_id>4c2fd9f797b55110f769b4b3f153afca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
+        <sys_update_name>sp_instance_4c2fd9f797b55110f769b4b3f153afca</sys_update_name>
+        <sys_updated_by>sandeep</sys_updated_by>
+        <sys_updated_on>2022-09-14 14:16:56</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=4c2fd9f797b55110f769b4b3f153afca"/>
+</record_update>
