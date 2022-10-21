@@ -39,6 +39,7 @@ $inline-flex:inline-flex;&#13;
 $d-none:none;&#13;
 // aligning&#13;
 $center:center;&#13;
+$solid: solid;&#13;
 $left:left;&#13;
 $right:right;&#13;
 $style-none:none;&#13;
@@ -65,6 +66,7 @@ $size-32: 32px;&#13;
 $size-34: 34px;&#13;
 $size-35: 35px;&#13;
 $size-40: 40px;&#13;
+&#13;
 // px values&#13;
 $size-0:0px;&#13;
 $size-1:1px;&#13;
@@ -72,6 +74,10 @@ $size-3:3px;&#13;
 $size-5:5px;&#13;
 $size-50: 50px;&#13;
 $size-60: 60px;&#13;
+$size-90: 90px;&#13;
+$size-108: 108px;&#13;
+$size-110: 110px;&#13;
+$size-135: 135px;&#13;
 $size-160: 160px;&#13;
 $size-200: 200px;&#13;
 $size-296: 296px;&#13;
@@ -134,6 +140,7 @@ $no-repeat: no-repeat;&#13;
 $cover: cover;&#13;
 $unset:unset;&#13;
 $hidden: hidden;&#13;
+$repeat: repeat;&#13;
 $transparent:transparent;&#13;
 $inline-block: inline-block;&#13;
 $pointer: pointer;&#13;
@@ -160,8 +167,13 @@ a:focus {&#13;
 .fa-heart-o {&#13;
     color: $primary-color !important;&#13;
 }&#13;
-&#13;
+form.ng-pristine&#13;
+{&#13;
+margin-top:$size-3 !important;&#13;
+}&#13;
+$size-70: 70px;&#13;
 $size-90:90px;&#13;
+$size-100: 100px;&#13;
 $size-110:110px;&#13;
 $size-160:160px;&#13;
 $size-108:108px;&#13;
@@ -174,9 +186,7 @@ $size-135:135px;&#13;
   width: $percent100 !important;&#13;
 }&#13;
 }&#13;
-form&gt;div.input-group-md{&#13;
-margin-top:$size-3!important;&#13;
-}</css_variables>
+</css_variables>
         <footer display_value="Footer-V1">1aa7bdc497c21110f769b4b3f153afe8</footer>
         <footer_fixed>false</footer_fixed>
         <header display_value="Header - V1">51b1f9f797395110f769b4b3f153afc2</header>
@@ -186,13 +196,13 @@ margin-top:$size-3!important;&#13;
         <sys_created_by>Chandru</sys_created_by>
         <sys_created_on>2022-09-14 15:03:31</sys_created_on>
         <sys_id>e5b9e9fb97f55110f769b4b3f153af7b</sys_id>
-        <sys_mod_count>55</sys_mod_count>
+        <sys_mod_count>63</sys_mod_count>
         <sys_name>Croft EC Theme</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_theme_e5b9e9fb97f55110f769b4b3f153af7b</sys_update_name>
-        <sys_updated_by>Snekha.Mohan Kumar</sys_updated_by>
-        <sys_updated_on>2022-10-06 15:51:57</sys_updated_on>
+        <sys_updated_by>Prabeen.Raj Selvaraj</sys_updated_by>
+        <sys_updated_on>2022-10-07 11:15:18</sys_updated_on>
     </sp_theme>
 </record_update>
