@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_knowledge_base">
+    <m2m_sp_portal_knowledge_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <kb_knowledge_base display_value="Knowledge">dfc19531bf2021003f07e2c1ac0739ab</kb_knowledge_base>
+        <order>100</order>
+        <sp_portal display_value="Croft EC Portal">65678dff97355110f769b4b3f153af4b</sp_portal>
+        <sys_class_name>m2m_sp_portal_knowledge_base</sys_class_name>
+        <sys_created_by>Chandru</sys_created_by>
+        <sys_created_on>2022-09-14 15:24:54</sys_created_on>
+        <sys_id>7faea5b797395110f769b4b3f153af6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Knowledge.Croft EC Portal</sys_name>
+        <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
+        <sys_update_name>m2m_sp_portal_knowledge_base_7faea5b797395110f769b4b3f153af6d</sys_update_name>
+        <sys_updated_by>Chandru</sys_updated_by>
+        <sys_updated_on>2022-09-14 15:24:54</sys_updated_on>
+    </m2m_sp_portal_knowledge_base>
+</record_update>
