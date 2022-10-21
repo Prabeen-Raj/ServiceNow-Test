@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_js_include">
+    <sp_js_include action="INSERT_OR_UPDATE">
+        <display_name>croft_Font_Download</display_name>
+        <source>local</source>
+        <sys_class_name>sp_js_include</sys_class_name>
+        <sys_created_by>Prabeen.Raj Selvaraj</sys_created_by>
+        <sys_created_on>2022-09-29 14:37:55</sys_created_on>
+        <sys_id>f1737aec1b96155044860d8cdc4bcb72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>croft_Font_Download</sys_name>
+        <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
+        <sys_ui_script display_value="x_833056_croft_ec.croftFontDownloadIssue">1d93faec1b96155044860d8cdc4bcbcd</sys_ui_script>
+        <sys_update_name>sp_js_include_f1737aec1b96155044860d8cdc4bcb72</sys_update_name>
+        <sys_updated_by>Prabeen.Raj Selvaraj</sys_updated_by>
+        <sys_updated_on>2022-09-29 14:37:55</sys_updated_on>
+        <url/>
+    </sp_js_include>
+</record_update>

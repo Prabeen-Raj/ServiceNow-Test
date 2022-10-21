@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_theme_js_include">
+    <m2m_sp_theme_js_include action="INSERT_OR_UPDATE">
+        <order/>
+        <sp_js_include display_value="croft_Font_Download">f1737aec1b96155044860d8cdc4bcb72</sp_js_include>
+        <sp_theme display_value="Croft EC Theme">e5b9e9fb97f55110f769b4b3f153af7b</sp_theme>
+        <sys_class_name>m2m_sp_theme_js_include</sys_class_name>
+        <sys_created_by>Prabeen.Raj Selvaraj</sys_created_by>
+        <sys_created_on>2022-09-29 14:37:55</sys_created_on>
+        <sys_id>3dc3beec1b96155044860d8cdc4bcb97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>croft_Font_Download.Croft EC Theme</sys_name>
+        <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
+        <sys_update_name>m2m_sp_theme_js_include_3dc3beec1b96155044860d8cdc4bcb97</sys_update_name>
+        <sys_updated_by>Prabeen.Raj Selvaraj</sys_updated_by>
+        <sys_updated_on>2022-09-29 14:37:55</sys_updated_on>
+    </m2m_sp_theme_js_include>
+</record_update>
