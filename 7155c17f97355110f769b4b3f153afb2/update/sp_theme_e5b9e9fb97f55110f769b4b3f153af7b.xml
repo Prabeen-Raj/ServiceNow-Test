@@ -250,6 +250,25 @@ margin-top:$size-3 !important;&#13;
 &#13;
 #small-cart{&#13;
 margin-bottom:$size-0 !important;&#13;
+}&#13;
+&#13;
+.modal-header button.close.pull-right {&#13;
+    box-shadow: 0 0 0 0.15rem $primary-color;&#13;
+    outline: 0.4rem solid transparent;&#13;
+}&#13;
+.modal .modal-dialog .modal-footer button.btn.btn-default:focus {&#13;
+    box-shadow: 0 0 0.5rem $primary-color !important;&#13;
+    outline: 0.4rem solid transparent !important;&#13;
+    border-color: $primary-color !important;&#13;
+}&#13;
+button.btn.btn-default.btn-primary {&#13;
+    background-color: $primary-color !important;&#13;
+    border-color: $primary-color !important;&#13;
+}&#13;
+&#13;
+button.btn.btn-clear:focus {&#13;
+    box-shadow: 0 0 0 0.15rem $primary-color !important;&#13;
+    outline: 0.4rem solid transparent !important;&#13;
 }</css_variables>
         <footer display_value="Footer-V1">1aa7bdc497c21110f769b4b3f153afe8</footer>
         <footer_fixed>false</footer_fixed>
@@ -260,13 +279,13 @@ margin-bottom:$size-0 !important;&#13;
         <sys_created_by>Chandru</sys_created_by>
         <sys_created_on>2022-09-14 15:03:31</sys_created_on>
         <sys_id>e5b9e9fb97f55110f769b4b3f153af7b</sys_id>
-        <sys_mod_count>104</sys_mod_count>
+        <sys_mod_count>118</sys_mod_count>
         <sys_name>Croft EC Theme</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_theme_e5b9e9fb97f55110f769b4b3f153af7b</sys_update_name>
-        <sys_updated_by>Prabeen.Raj Selvaraj</sys_updated_by>
-        <sys_updated_on>2022-10-18 12:51:14</sys_updated_on>
+        <sys_updated_by>Sudarsan.Pavadairayan</sys_updated_by>
+        <sys_updated_on>2022-10-19 16:20:17</sys_updated_on>
     </sp_theme>
 </record_update>
