@@ -17,14 +17,20 @@ $grey-800:#505050;&#13;
 $white:#FFF;&#13;
 $black:#000;&#13;
 &#13;
-$icon-link-1: #fce3ee;&#13;
-$icon-link-2: #fff0dd;&#13;
-$icon-link-3: #d5f7fe;&#13;
-$icon-link-4: #edfbdc;&#13;
+//css variable icon link svg bg colors&#13;
+&#13;
+$icon-bg-1: #fce3ee;&#13;
+$icon-bg-2: #fff0dd;&#13;
+$icon-bg-3: #d5f7fe;&#13;
+$icon-bg-4: #edfbdc;&#13;
+&#13;
+//css variable icon link text and glyph colors&#13;
+&#13;
 $quick-link-1:#FF378F;&#13;
 $quick-link-2:#FF9C08;&#13;
 $quick-link-3:#11B4E3;&#13;
 $quick-link-4:#74C10F;&#13;
+&#13;
 $transparent:transparent;&#13;
 $search-bg:#FFFFFF;&#13;
 // Font file&#13;
@@ -254,13 +260,13 @@ margin-bottom:$size-0 !important;&#13;
         <sys_created_by>Chandru</sys_created_by>
         <sys_created_on>2022-09-14 15:03:31</sys_created_on>
         <sys_id>e5b9e9fb97f55110f769b4b3f153af7b</sys_id>
-        <sys_mod_count>100</sys_mod_count>
+        <sys_mod_count>104</sys_mod_count>
         <sys_name>Croft EC Theme</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_theme_e5b9e9fb97f55110f769b4b3f153af7b</sys_update_name>
         <sys_updated_by>Prabeen.Raj Selvaraj</sys_updated_by>
-        <sys_updated_on>2022-10-17 19:00:56</sys_updated_on>
+        <sys_updated_on>2022-10-18 12:51:14</sys_updated_on>
     </sp_theme>
 </record_update>
