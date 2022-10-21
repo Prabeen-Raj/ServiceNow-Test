@@ -10,9 +10,9 @@
         <kb_knowledge_base/>
         <kb_knowledge_page display_value="croft_ec_kb_home">baa905b397755110f769b4b3f153afbe</kb_knowledge_page>
         <login_page display_value="login">6995a144cb11120000f8d856634c9c25</login_page>
-        <logo/>
+        <logo>636c8da71bc2115044860d8cdc4bcbaa</logo>
         <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
-        <quick_start_config/>
+        <quick_start_config>[{"favorite":{"icon_checked":"fa-heart","icon_unchecked":"fa-heart-o","color":"primary"}}]</quick_start_config>
         <sc_catalog/>
         <sc_catalog_page/>
         <sc_category_page/>
@@ -24,18 +24,57 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-14 12:34:18</sys_created_on>
         <sys_id>65678dff97355110f769b4b3f153af4b</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Croft EC Portal</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_portal_65678dff97355110f769b4b3f153af4b</sys_update_name>
         <sys_updated_by>Prabeen.Raj Selvaraj</sys_updated_by>
-        <sys_updated_on>2022-09-23 08:59:19</sys_updated_on>
+        <sys_updated_on>2022-09-30 08:06:48</sys_updated_on>
         <theme display_value="Croft EC Theme">e5b9e9fb97f55110f769b4b3f153af7b</theme>
         <title>Croft EC Portal</title>
         <ts_index_group/>
         <url_suffix>croft_ec</url_suffix>
     </sp_portal>
     <sys_translated_text action="delete_multiple" query="documentkey=65678dff97355110f769b4b3f153af4b"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ff4b9a</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo</file_name>
+        <hash>00f505691f5a4055ea0c034237d47ca7826288d53077feff68b4ad8c0681e041</hash>
+        <image_height>32</image_height>
+        <image_width>110</image_width>
+        <size_bytes>1708</size_bytes>
+        <size_compressed>1731</size_compressed>
+        <state>available</state>
+        <sys_created_by>Prabeen.Raj Selvaraj</sys_created_by>
+        <sys_created_on>2022-09-26 04:32:28</sys_created_on>
+        <sys_id>636c8da71bc2115044860d8cdc4bcbaa</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>Prabeen.Raj Selvaraj</sys_updated_by>
+        <sys_updated_on>2022-09-26 04:32:28</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>65678dff97355110f769b4b3f153af4b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="636c8da71bc2115044860d8cdc4bcbaa">636c8da71bc2115044860d8cdc4bcbaa</sys_attachment>
+        <sys_created_by>Prabeen.Raj Selvaraj</sys_created_by>
+        <sys_created_on>2022-09-26 04:32:28</sys_created_on>
+        <sys_id>a36c8da71bc2115044860d8cdc4bcbaa</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2296</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="636c8da71bc2115044860d8cdc4bcbaa">636c8da71bc2115044860d8cdc4bcbaa</sys_attachment>
+        <sys_created_by>Prabeen.Raj Selvaraj</sys_created_by>
+        <sys_created_on>2022-09-26 04:32:28</sys_created_on>
+        <sys_id>276c8da71bc2115044860d8cdc4bcbaa</sys_id>
+    </sys_attachment_doc>
 </record_update>
