@@ -2,22 +2,89 @@
     <sp_page action="INSERT_OR_UPDATE">
         <category>custom</category>
         <css>main.body.padding-top {
-    padding-top: 0px;
+    padding-top: $size-0;
 }
 
 .cm-main-search {
-    padding: 10%;
+    padding: $percent10;
 }
 
 ul.list-unstyled {
-    display: none;
+    display: $d-none;
 }
 .banner-container {
-    background-size: cover !important;
+    background-size: $cover !important;
 }
 main.body.padding-top {
-    padding-top: 0px !important;
-}</css>
+    padding-top: $size-0 !important;
+}
+.panel-body.transclude .list-group-item a {
+    color: $primary-color;
+  	font-family: $primary-font-regular;
+}
+.panel-body .list-group-item a {
+    color: $primary-color;
+  	font-family: $primary-font-regular;
+}
+.cm-welcome-msg h2.ng-binding {
+    color: $black;
+    font-family: $primary-font-regular;
+}
+span.catalog-title {
+    font-family:  $primary-font-regular !important;
+}
+h1.Portal-webpart-title {
+   font-family: $primary-font-regular !important;
+   color: $black;
+}
+li.faq-title {
+    font-family: $primary-font-regular !important;
+}
+.Portal-w-100 .Portal-chevronright a {
+    font-family: $primary-font-regular;
+}
+a.Portal-link.ng-scope {
+   font-family: $primary-font-regular;
+}
+a.viewall-link.pull-right {
+   font-family: $primary-font-regular;
+}
+h2.h4.panel-title {
+    font-family: $primary-font-regular;
+    font-size: $size-20;
+}
+.panel-heading {
+    background: $style-none !important;
+    border: $style-none;
+  	padding-top: $size-20;
+}
+.col-md-6 .panel.panel-default.b {
+   border:  $style-none;
+}
+span.views.pad-right {
+    font-family: $primary-font-regular;
+}
+.banner-search input.form-control:focus {
+    outline: $d-none !important;
+}
+//= Welcome Knowledge Base Style - Mobile
+@media  (max-width: 767px){
+.hidden-xs {
+    display: block !important;
+  font-family:primary-font-semibold !important;
+  font-size:14px !important;
+}
+ }
+
+//= Welcome Knowledge Base Style - Tablet
+
+@media (min-width: 768px) and (max-width: 991px){
+.cm-main-search .hidden-sm
+{
+display:$d-block !important;
+font-family:primary-font-semibold !important;
+  font-size:20px !important;}}
+</css>
         <draft>false</draft>
         <dynamic_title_structure/>
         <id>croft_ec_kb_home</id>
@@ -31,14 +98,14 @@ main.body.padding-top {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-14 12:43:37</sys_created_on>
         <sys_id>baa905b397755110f769b4b3f153afbe</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>49</sys_mod_count>
         <sys_name>croft_ec_kb_home</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_page_baa905b397755110f769b4b3f153afbe</sys_update_name>
-        <sys_updated_by>sandeep</sys_updated_by>
-        <sys_updated_on>2022-09-16 08:10:27</sys_updated_on>
+        <sys_updated_by>Chandru.Viswanathan</sys_updated_by>
+        <sys_updated_on>2022-09-28 12:28:36</sys_updated_on>
         <title>Croft EC KB HomePage</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>
