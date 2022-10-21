@@ -4,75 +4,75 @@
         <class_name/>
         <color>default</color>
         <css/>
-        <glyph>file-o</glyph>
+        <glyph>book</glyph>
         <id/>
         <order>1</order>
         <roles/>
         <short_description/>
         <size>md</size>
         <sp_column display_value="1">59629dbb97755110f769b4b3f153afd5</sp_column>
-        <sp_widget display_value="Croft Icon Link">9b7ea5b797395110f769b4b3f153afcb</sp_widget>
+        <sp_widget display_value="Icon Link">9b7ea5b797395110f769b4b3f153afcb</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>sandeep</sys_created_by>
         <sys_created_on>2022-09-14 16:14:54</sys_created_on>
         <sys_id>1c2a757397795110f769b4b3f153afdd</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>KB Home</sys_name>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Knowledge Home</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_instance_1c2a757397795110f769b4b3f153afdd</sys_update_name>
-        <sys_updated_by>sandeep</sys_updated_by>
-        <sys_updated_on>2022-09-14 16:38:43</sys_updated_on>
-        <title>KB Home</title>
+        <sys_updated_by>Sandeep.Vasudevan</sys_updated_by>
+        <sys_updated_on>2022-10-06 14:09:01</sys_updated_on>
+        <title>Knowledge Home</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"title": {
-		"value": "KB Home",
-		"displayValue": "KB Home"
+		"value": "Knowledge Home",
+		"displayValue": "Knowledge Home"
 	},
 	"href": {
-		"value": "?id=kb_home",
-		"displayValue": "?id=kb_home"
+		"value": "?id=croft_ec_kb_home",
+		"displayValue": "?id=croft_ec_kb_home"
 	},
 	"glyph": {
-		"value": "file-o",
+		"value": "book",
 		"displayValue": ""
 	},
 	"title1": {
-		"value": "Sc Category",
-		"displayValue": "Sc Category"
+		"value": "My Requests",
+		"displayValue": "My Requests"
 	},
 	"href1": {
-		"value": "?id=sc_category",
-		"displayValue": "?id=sc_category"
-	},
-	"glyph1": {
-		"value": "folder-open",
-		"displayValue": ""
-	},
-	"title2": {
-		"value": "Kb View 2",
-		"displayValue": "Kb View 2"
-	},
-	"href2": {
-		"value": "?id=kb_view2",
-		"displayValue": "?id=kb_view2"
-	},
-	"glyph2": {
-		"value": "home",
-		"displayValue": ""
-	},
-	"title3": {
-		"value": "Requests",
-		"displayValue": "Requests"
-	},
-	"href3": {
 		"value": "?id=requests",
 		"displayValue": "?id=requests"
 	},
-	"glyph3": {
+	"glyph1": {
 		"value": "user",
+		"displayValue": ""
+	},
+	"title2": {
+		"value": "Cart",
+		"displayValue": "Cart"
+	},
+	"href2": {
+		"value": "?id=sc_cart",
+		"displayValue": "?id=sc_cart"
+	},
+	"glyph2": {
+		"value": "shopping-cart",
+		"displayValue": ""
+	},
+	"title3": {
+		"value": "Articles",
+		"displayValue": "Articles"
+	},
+	"href3": {
+		"value": "?id=kb_article",
+		"displayValue": "?id=kb_article"
+	},
+	"glyph3": {
+		"value": "list-alt",
 		"displayValue": ""
 	}
 }]]></widget_parameters>
