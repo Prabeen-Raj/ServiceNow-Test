@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
     <sp_page action="INSERT_OR_UPDATE">
         <category>custom</category>
-        <css/>
+        <css>.banner-container {
+    background-size: contain !important;
+}
+main.body.padding-top {
+    padding-top: 0px !important;
+}</css>
         <draft>false</draft>
         <dynamic_title_structure/>
         <id>croft_ec_homepage</id>
@@ -15,14 +20,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-14 12:42:05</sys_created_on>
         <sys_id>f859c97397755110f769b4b3f153afc3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>croft_ec_homepage</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_page_f859c97397755110f769b4b3f153afc3</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-14 12:42:05</sys_updated_on>
+        <sys_updated_by>Arun</sys_updated_by>
+        <sys_updated_on>2022-09-16 07:02:29</sys_updated_on>
         <title>Croft EC  HomePage</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>
