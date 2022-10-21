@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>sn_ex_sp_taxonomy</category>
+        <css>/* Cant get around with out important as mesp has container style with important */
+
+.container {
+  padding: 0 !important;
+}
+
+.lf-margin  &gt; span &gt; div &gt; *{
+  margin: 0rem 1.2rem 2.4rem 1.6rem;
+}
+
+.rt-margin  &gt; span &gt; div &gt; *{
+  margin: 0rem 1.6rem 2.4rem 1.2rem;
+}
+
+.flex-basis-zero {
+  flex-basis: 0;
+}
+
+.flex-basis-auto {
+  flex-basis: 0;
+}
+
+.topic-breadcrumbs-container .breadcrumbs{
+  padding-top: 1.375rem;
+  margin-left: 0.9375rem;
+  .nav{
+    a{
+        color: $text-color;
+    }
+    .fa{
+        color: $text-muted;
+    }
+    .a-disabled{
+        color: $text-color;
+        font-weight: 700;
+    }
+	}
+}
+
+[accessibility] [tabindex]:focus , [accessibility] .btn.btn-default:focus{
+    box-shadow: 0rem 0rem 0rem 0.15rem $input-border-focus;
+}
+
+@media(max-width: 22em){
+.topic-breadcrumbs-container .breadcrumbs{
+  display: none;
+  }
+}
+
+@media(max-width: 31em){
+  .topic-breadcrumbs-container .breadcrumbs{
+    padding-top: 0.375rem;
+    &gt; ul {
+      margin-bottom: 0;
+      &gt; li{
+        padding-bottom: 0.375rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 48em) {
+  .flex-orientation {
+    flex-direction: column;
+  }
+  .lf-margin  &gt; span &gt; div &gt; *{
+    margin: 0rem 1.6rem 2.4rem 1.6rem;
+  }
+  .rt-margin  &gt; span &gt; div &gt; *{
+    margin: 0rem 1.6rem 2.4rem 1.6rem;
+  }
+}
+
+@media screen and (-ms-high-contrast: active),
+  (-ms-high-contrast: none) {
+  .flex-basis-auto {
+    flex-basis:auto;
+  }
+}
+
+@media screen and (-ms-high-contrast: active),
+  (-ms-high-contrast: none) and (max-width: 48em) {
+  .flex-basis-zero {
+    flex-basis:auto;
+  }
+}
+
+
+//Custom Topic CSS
+.topic-header{
+  padding:$sp-space--xl;
+  background-color:$primary-color-100;
+  border-radius:$sp-space--sm;
+  color:$black;
+  border:$size-1 solid $primary-color-200
+}
+.topic-header-description{
+  font-family:$primary-font-medium;
+}
+.topic-header-icon__image-div img{
+  width:$sp-space--xxl !important;
+  height:$sp-space--xxl !important;
+  
+}
+.background-primary{
+  padding:$sp-space--xxl $sp-space--lg !important;
+  min-width:0 !important;
+  height: 0 !important;
+  background-color:$primary-color-200 !important;
+}
+.topic-header-icon__text .topic-header-title{
+  font-family:$primary-font-semibold;
+  font-size:$size-20 !important;
+  color: $primary-color;
+}
+.browse-elevation{
+  box-shadow:$style-none !important;
+}
+.main-container{
+  padding:$sp-space--md !important;
+  background-color:$primary-color-100;
+  border-radius:$sp-space--sm;
+}
+.subtopics{
+  box-shadow:$box-shadow-sm;
+}
+.box-header-title{
+  align-items:$center;
+}
+.title-item{
+  font-family:$primary-font-semibold;
+  font-size:$size-20;  
+  color: $primary-color;
+  margin:$sp-space--0;
+}
+.browse-elevation{
+  padding:$sp-space--0 !important;
+}
+.item-name
+{
+  font-family:$primary-font-medium;
+  font-size:$size-14;  
+}
+.video-carousel-widget
+{
+  margin:$sp-space--0 !important;
+}
+.fa-th
+{
+  color:$primary-color !important;
+}
+.fa-list-ul
+{
+  color:$primary-color !important;
+}
+.browse-elevation h3
+{
+  font-family:$primary-font-semibold;
+  font-size:$size-20 !important;
+  color:$primary-color !important;
+  padding-left:$sp-space--0 !important;
+}
+.form-inline label
+{
+  font-family:$primary-font-semibold !important;
+  font-size:$size-14 !important;
+}
+.form-inline .form-control
+{
+  font-family:$primary-font-regular !important;
+  font-size:$size-14 ;
+  border:$style-none ;
+  background-color:$primary-color-100;
+  color:$primary-color;
+  box-shadow:$style-none !important;
+}
+
+.card-badge
+{
+  font-family:$primary-font-regular !important;
+  font-size:$size-14 !important;
+}
+.item-title
+{
+   font-family:$primary-font-semibold !important;
+  font-size:$size-16 !important;
+}
+.item-description
+{
+  font-size:$size-14 !important;
+}
+.primary-font-semibold{
+  font-family:$primary-font-semibold;
+}
+
+.breadcrumbs-container {
+     padding-top: $size-0;
+    padding-bottom: $size-0;
+    background-color: $primary-color-100;
+}
+.nav-sm li span a
+{
+  color:$black !important;
+  font-size: $size-14 !important;
+  font-family: $primary-font-medium;
+}
+.fa-chevron-right
+{
+   color:$primary-color !important;
+}
+.a-disabled
+{
+  color:$primary-color !important;
+   font-size: $size-14 !important;
+  font-family: $primary-font-medium;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>croft_ec_topic_page</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>Sudharsan</sys_created_by>
+        <sys_created_on>2022-09-15 19:06:44</sys_created_on>
+        <sys_id>46caa3cc978a1110f769b4b3f153afba</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>croft_ec_topic_page</sys_name>
+        <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
+        <sys_update_name>sp_page_46caa3cc978a1110f769b4b3f153afba</sys_update_name>
+        <sys_updated_by>Sudharsan</sys_updated_by>
+        <sys_updated_on>2022-09-15 20:16:25</sys_updated_on>
+        <title>Croft_EC_Topic_Page</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=46caa3cc978a1110f769b4b3f153afba"/>
+</record_update>
