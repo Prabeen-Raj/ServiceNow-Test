@@ -161,6 +161,15 @@ $pointer: pointer;&#13;
 $fit-content: fit-content;&#13;
 $inline-table:inline-table;&#13;
 &#13;
+//=How To Widget Optimization Theme SCSS&#13;
+&#13;
+$how-to-title-color:$primary-color;&#13;
+$how-to-color:$secondary-color;&#13;
+$how-to-color-hover:$primary-color;&#13;
+$how-to-bg-color:$white;&#13;
+$how-to-bg-color-hover:$white;&#13;
+$how-to-viewall-color:$primary-color;&#13;
+&#13;
 .navbar-nav &gt; li &gt; .dropdown-menu{&#13;
  max-height: $space-vh-65;&#13;
 }&#13;
@@ -187,17 +196,44 @@ margin-top:$size-3 !important;&#13;
 }&#13;
 &#13;
 &#13;
-&#13;
-&#13;
-&#13;
-&#13;
-&#13;
 @media (min-width:767px) and (max-width: 980px){&#13;
 .leftnav-req-detail .col-sm-9,.leftnav-req-detail .col-sm-3 {&#13;
   width: $percent100 !important;&#13;
 }&#13;
 }&#13;
-</css_variables>
+&#13;
+.head-search .input-group .input-typeahead{&#13;
+    border-right: $d-none;&#13;
+    border-bottom-left-radius: $size-16;&#13;
+    border-top-left-radius: $size-16;&#13;
+    border: $unset;&#13;
+     box-shadow:$unset;&#13;
+    &amp;:focus{&#13;
+    box-shadow:$unset;&#13;
+    }&#13;
+ }&#13;
+.head-search .input-group .input-group-btn button{&#13;
+    border-right: $d-none;&#13;
+    border-bottom-right-radius: $size-16 !important;&#13;
+    border-top-right-radius: $size-16 !important;&#13;
+    border: $unset;&#13;
+    &amp;:focus{&#13;
+    box-shadow:$unset;&#13;
+    outline:$unset !important;&#13;
+    background-color:$white;&#13;
+    border-bottom-right-radius: $size-16;&#13;
+    border-top-right-radius: $size-16;&#13;
+    }&#13;
+    &amp;:hover{&#13;
+    background-color:$white;&#13;
+    border-bottom-right-radius: $size-16 !important;&#13;
+    border-top-right-radius: $size-16 !important;&#13;
+    }&#13;
+ }&#13;
+&#13;
+.panel .panel-body{&#13;
+   height:  $size-space--170px !important;&#13;
+}</css_variables>
         <footer display_value="Footer-V1">1aa7bdc497c21110f769b4b3f153afe8</footer>
         <footer_fixed>false</footer_fixed>
         <header display_value="Header - V1">51b1f9f797395110f769b4b3f153afc2</header>
@@ -207,13 +243,13 @@ margin-top:$size-3 !important;&#13;
         <sys_created_by>Chandru</sys_created_by>
         <sys_created_on>2022-09-14 15:03:31</sys_created_on>
         <sys_id>e5b9e9fb97f55110f769b4b3f153af7b</sys_id>
-        <sys_mod_count>70</sys_mod_count>
+        <sys_mod_count>90</sys_mod_count>
         <sys_name>Croft EC Theme</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_theme_e5b9e9fb97f55110f769b4b3f153af7b</sys_update_name>
-        <sys_updated_by>Sakthi.Varun</sys_updated_by>
-        <sys_updated_on>2022-10-10 15:11:51</sys_updated_on>
+        <sys_updated_by>Vignesh.Dhatshnamurthy</sys_updated_by>
+        <sys_updated_on>2022-10-13 17:02:03</sys_updated_on>
     </sp_theme>
 </record_update>
