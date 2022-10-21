@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">b3cffac0970a1110f769b4b3f153afee</sp_column>
+        <sp_widget display_value="TabbedTopics">50ca3a8c97c61110f769b4b3f153af0e</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>sandeep</sys_created_by>
+        <sys_created_on>2022-09-15 15:58:18</sys_created_on>
+        <sys_id>26effac0970a1110f769b4b3f153af8d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
+        <sys_update_name>sp_instance_26effac0970a1110f769b4b3f153af8d</sys_update_name>
+        <sys_updated_by>sandeep</sys_updated_by>
+        <sys_updated_on>2022-09-15 19:08:59</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"topics": {
+		"value": "cc4a59b397b55110f769b4b3f153af23,59f8117397b55110f769b4b3f153af5a,6b68993397b55110f769b4b3f153afda,d06a11f397b55110f769b4b3f153af44,bbbad1f397b55110f769b4b3f153afa2",
+		"displayValue": "Computer, Software Topic, Hardware Topic, Laptop, Mobile"
+	},
+	"tilelength": {
+		"value": null,
+		"displayValue": ""
+	},
+	"tiletype": {
+		"value": "Picture specific",
+		"displayValue": "Picture specific"
+	},
+	"navigationtype": {
+		"value": "Left",
+		"displayValue": "Left"
+	},
+	"topicstyle": {
+		"value": "Highlighted",
+		"displayValue": "Highlighted"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=26effac0970a1110f769b4b3f153af8d"/>
+</record_update>
