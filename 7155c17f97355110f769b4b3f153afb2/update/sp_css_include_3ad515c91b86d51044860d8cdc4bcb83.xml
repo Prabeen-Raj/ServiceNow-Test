@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <name>CROFT_FONT_CSS</name>
+        <source>local</source>
+        <sp_css display_value="CROFT_FONT_STYLE_SHEET">b50695c91b86d51044860d8cdc4bcbec</sp_css>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>Sudarsan.Pavadairayan</sys_created_by>
+        <sys_created_on>2022-09-18 10:50:10</sys_created_on>
+        <sys_id>3ad515c91b86d51044860d8cdc4bcb83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CROFT_FONT_CSS</sys_name>
+        <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
+        <sys_update_name>sp_css_include_3ad515c91b86d51044860d8cdc4bcb83</sys_update_name>
+        <sys_updated_by>Sudarsan.Pavadairayan</sys_updated_by>
+        <sys_updated_on>2022-09-18 10:50:10</sys_updated_on>
+        <url/>
+    </sp_css_include>
+</record_update>
