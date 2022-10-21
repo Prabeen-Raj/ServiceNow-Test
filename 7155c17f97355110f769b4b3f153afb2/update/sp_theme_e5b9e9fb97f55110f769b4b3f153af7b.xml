@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables>// Primary Level Variables&#13;
+$primary-color: #FF378F;&#13;
+$secondary-color:#294A77;&#13;
+$primary-color-100: #FFF4F8;&#13;
+$primary-color-200: #FFE5F0;&#13;
+$primary-color-300: #FFB2D4;&#13;
+$grey-100:#F8F9FA;&#13;
+$grey-200:#E9ECEF;&#13;
+$grey-300:#DEE2E6;&#13;
+$grey-400:#CED4DA;&#13;
+$grey-500:#ADB5BD;&#13;
+$grey-600:#6C757D;&#13;
+$grey-800:#505050;&#13;
+$white:#FFF;&#13;
+$black:#000;&#13;
+$quick-link-1:#FF378F;&#13;
+$quick-link-2:#FF9C08;&#13;
+$quick-link-3:#11B4E3;&#13;
+$quick-link-4:#74C10F;&#13;
+$transparent:transparent;&#13;
+// Font file&#13;
+&#13;
+$primary-font-regular:'SF Pro Text Regular';&#13;
+$primary-font-medium:'SF Pro Text Medium';&#13;
+$primary-font-semibold:'SF Pro Text Semibold';&#13;
+$primary-font-bold:'SF Pro Text Bold';&#13;
+$background-blur: rgba(0 0 0  19%);&#13;
+$backdrop:blur(12px);&#13;
+// Display property&#13;
+$d-flex:flex;&#13;
+$space-between:space-between;&#13;
+$d-block:block;&#13;
+$d-none:none;&#13;
+// aligning&#13;
+$center:center;&#13;
+$left:left;&#13;
+$right:right;&#13;
+$style-none:none;&#13;
+$end:end;&#13;
+//font values&#13;
+$size-8:8px;&#13;
+$size-12: 12px;&#13;
+$size-14: 14px;&#13;
+$size-16: 16px;&#13;
+$size-18: 18px;&#13;
+$size-20: 20px;&#13;
+$size-22: 22px;&#13;
+$size-24: 24px;&#13;
+$size-26: 26px;&#13;
+$size-28: 28px;&#13;
+$size-30: 30px;&#13;
+$size-32: 32px;&#13;
+$size-34: 34px;&#13;
+$size-40: 40px;&#13;
+// px values&#13;
+$size-0:0px;&#13;
+$size-1:1px;&#13;
+$size-5:5px;&#13;
+$size-50: 50px;&#13;
+// percentange&#13;
+$percent0: 0%;&#13;
+$percent10: 10%;&#13;
+$percent15: 15%;&#13;
+$percent20: 20%;&#13;
+$percent25: 25%;&#13;
+$percent30: 30%;&#13;
+$percent40: 40%;&#13;
+$percent45: 45%;&#13;
+$percent50: 50%;&#13;
+$percent60: 60%;&#13;
+$percent75: 75%;&#13;
+$percent80: 80%;&#13;
+$percent100: 100%;&#13;
+//==spacing&#13;
+$sp-space--0: 0px;&#13;
+$sp-space--xxs: 2px;&#13;
+$sp-space--xs: 4px;&#13;
+$sp-space--sm: 8px;&#13;
+$sp-space--md: 12px;&#13;
+$sp-space--lg: 16px;&#13;
+$sp-space--xl: 24px;&#13;
+$sp-space--xxl: 32px;&#13;
+$sp-space--3xl: 40px;&#13;
+$sp-space--50: 50px;&#13;
+$sp-space--60: 60px;&#13;
+$sp-space--80: 80px;&#13;
+$sp-space--120: 120px;&#13;
+$sp-space--130: 130px;&#13;
+//=position values&#13;
+$position-relative: relative;&#13;
+$position-absolute: absolute;&#13;
+$positionFixed: fixed;&#13;
+$positionSticky: sticky;&#13;
+$position-0: 0%;&#13;
+$position-50: 50%;&#13;
+$position-100: 100%;&#13;
+$translate-middle: translate(-50%, -50%) !important;&#13;
+// shadow&#13;
+$box-shadow:                  0 .5rem 1rem rgba(#000, .15);&#13;
+$box-shadow-sm:               0 .125rem .25rem rgba(0,0,0,.075)!important;&#13;
+$box-shadow-lg:               0 1rem 3rem rgba(#000, .175);&#13;
+//bg&#13;
+$no-repeat: no-repeat;&#13;
+$cover: cover;&#13;
+$unset:unset;</css_variables>
+        <footer display_value="Custom Footer - Croft">1aa7bdc497c21110f769b4b3f153afe8</footer>
+        <footer_fixed>false</footer_fixed>
+        <header display_value="Croft Header">51b1f9f797395110f769b4b3f153afc2</header>
+        <name>Croft EC Theme</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>Chandru</sys_created_by>
+        <sys_created_on>2022-09-14 15:03:31</sys_created_on>
+        <sys_id>e5b9e9fb97f55110f769b4b3f153af7b</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Croft EC Theme</sys_name>
+        <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
+        <sys_update_name>sp_theme_e5b9e9fb97f55110f769b4b3f153af7b</sys_update_name>
+        <sys_updated_by>Jithesh</sys_updated_by>
+        <sys_updated_on>2022-09-15 18:34:23</sys_updated_on>
+    </sp_theme>
+</record_update>
