@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>Arun</sys_created_by>
+        <sys_created_on>2022-09-14 18:53:28</sys_created_on>
+        <sys_id>5efd9af797f95110f769b4b3f153aff1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Croft Menu</sys_name>
+        <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
+        <sys_update_name>sp_instance_menu_5efd9af797f95110f769b4b3f153aff1</sys_update_name>
+        <sys_updated_by>Arun</sys_updated_by>
+        <sys_updated_on>2022-09-14 18:58:45</sys_updated_on>
+        <title>Croft Menu</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"enable_cart":{
+		"displayValue":"false",
+		"value":false
+	},
+	"auto_update_cart":{
+		"displayValue":"true",
+		"value":true
+	},
+	"exclude_search_on_homepage":{
+		"displayValue":"true",
+		"value":true
+	},
+	"enable_wishlist":{
+		"displayValue":"false",
+		"value":false
+	},
+	"enable_requests":{
+		"displayValue":"true",
+		"value":true
+	},
+	"enable_tasks":{
+		"displayValue":"true",
+		"value":true
+	},
+    "enable_more_items":{
+      	"displayValue":"true",
+      	"value":true,
+        "sysId":"01ef85b65368301056c1ddeeff7b12ce"
+    }
+}]]></widget_parameters>
+    </sp_instance_menu>
+    <sys_translated_text action="delete_multiple" query="documentkey=5efd9af797f95110f769b4b3f153aff1"/>
+</record_update>
