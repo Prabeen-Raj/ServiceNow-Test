@@ -23,14 +23,11 @@ main.body.padding-top {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-14 12:42:05</sys_created_on>
         <sys_id>f859c97397755110f769b4b3f153afc3</sys_id>
-        <sys_mod_count>20</sys_mod_count>
         <sys_name>croft_ec_homepage</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_page_f859c97397755110f769b4b3f153afc3</sys_update_name>
-        <sys_updated_by>Sandeep.Vasudevan</sys_updated_by>
-        <sys_updated_on>2022-09-28 08:46:37</sys_updated_on>
         <title>Croft EC  HomePage</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>

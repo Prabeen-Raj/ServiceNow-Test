@@ -11,13 +11,10 @@
         <sys_created_by>Sudharsan</sys_created_by>
         <sys_created_on>2022-09-15 19:11:43</sys_created_on>
         <sys_id>cc3caf0097ca1110f769b4b3f153aff4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>1</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_column_cc3caf0097ca1110f769b4b3f153aff4</sys_update_name>
-        <sys_updated_by>Sudharsan</sys_updated_by>
-        <sys_updated_on>2022-09-15 19:11:43</sys_updated_on>
     </sp_column>
 </record_update>

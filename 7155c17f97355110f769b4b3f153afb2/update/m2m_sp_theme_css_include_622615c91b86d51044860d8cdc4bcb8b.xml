@@ -7,13 +7,10 @@
         <sys_created_by>Sudarsan.Pavadairayan</sys_created_by>
         <sys_created_on>2022-09-18 10:50:10</sys_created_on>
         <sys_id>622615c91b86d51044860d8cdc4bcb8b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>CROFT_FONT_CSS.Croft EC Theme</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>m2m_sp_theme_css_include_622615c91b86d51044860d8cdc4bcb8b</sys_update_name>
-        <sys_updated_by>Sudarsan.Pavadairayan</sys_updated_by>
-        <sys_updated_on>2022-09-18 10:50:10</sys_updated_on>
     </m2m_sp_theme_css_include>
 </record_update>

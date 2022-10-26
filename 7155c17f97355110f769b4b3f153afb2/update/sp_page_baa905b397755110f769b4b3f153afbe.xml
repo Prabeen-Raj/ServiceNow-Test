@@ -98,14 +98,11 @@ font-family:primary-font-semibold !important;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-14 12:43:37</sys_created_on>
         <sys_id>baa905b397755110f769b4b3f153afbe</sys_id>
-        <sys_mod_count>49</sys_mod_count>
         <sys_name>croft_ec_kb_home</sys_name>
         <sys_package display_value="Croft EC" source="x_833056_croft_ec">7155c17f97355110f769b4b3f153afb2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Croft EC">7155c17f97355110f769b4b3f153afb2</sys_scope>
         <sys_update_name>sp_page_baa905b397755110f769b4b3f153afbe</sys_update_name>
-        <sys_updated_by>Chandru.Viswanathan</sys_updated_by>
-        <sys_updated_on>2022-09-28 12:28:36</sys_updated_on>
         <title>Croft EC KB HomePage</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>
